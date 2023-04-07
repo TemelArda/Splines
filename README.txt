@@ -1,6 +1,9 @@
-------------------------------------
-TEMPLATE CODE FOR CS 174C/CS 274C
-------------------------------------
+Start the simulationn by pressing S key
+Start.tcl file in the build folder defines the example scene. There are scenes that are already set up A-test-1 and a-test-3.
+Splines can be defined using a .txt file the format of the files to define the splines is 
+hermite <Number of points>
+<Point X> <Point Y> <Poin Z> <Tangent X> <tangent Y> <tangent Z>
+for every point.
 
 Prerequisites
 --------------
