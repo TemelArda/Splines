@@ -1,6 +1,6 @@
 part1
 # set the path to the file correctly!!
-system hermite load "gradingTest3524.txt"
+system hermite load "spline2.txt"
 
 system hermite getArcLength 1
 system hermite set point 18 0 0 0
