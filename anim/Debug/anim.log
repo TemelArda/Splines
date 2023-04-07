@@ -1,0 +1,20 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Terrain.cpp
+  TankMissileSimulator.cpp
+  Tank.cpp
+  BaseSystem.cpp
+  SampleParticle.cpp
+  SampleGravitySimulator.cpp
+  ResourceManager.cpp
+  myScene.cpp
+C:\DEV\CPP\Projects\Hermite Splines - Arda Temel\anim\myScene.cpp(100,7): warning C4101: 'success': unreferenced local variable
+  Missile.cpp
+  Hermite.cpp
+  GlobalResourceManager.cpp
+  BaseSimulator.cpp
+  BaseObject.cpp
+  animTcl.cpp
+  anim.cpp
+  Generating Code...
+C:\DEV\CPP\Projects\Hermite Splines - Arda Temel\anim\Tank.cpp(177): warning C4715: 'Tank::Ease': not all control paths return a value
+  anim.vcxproj -> C:\DEV\CPP\Projects\Hermite Splines - Arda Temel\Build\anim.exe
